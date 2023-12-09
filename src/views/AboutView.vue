@@ -3,7 +3,9 @@ import HelloWorld from '../components/HelloWorld.vue'
 </script>
 
 <template>
-  <!-- add navigation bar -->
+  <!-- introduction part -->
+
+  <!-- about me part -->
 </template>
 
 <style>
