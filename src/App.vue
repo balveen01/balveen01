@@ -1,5 +1,4 @@
 <script setup>
-import { RouterLink, RouterView } from "vue-router";
 import logoDark from "@/assets/logo_dark.png";
 import 'flowbite';
 import intro from "./components/Intro.vue";
@@ -45,7 +44,6 @@ import intro from "./components/Intro.vue";
 
   <intro />
 
-  <RouterView />
 </template>
 
 <script>
