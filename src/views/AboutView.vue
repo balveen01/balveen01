@@ -4,7 +4,7 @@ import HelloWorld from '../components/HelloWorld.vue'
 
 <template>
   <!-- introduction part -->
-
+  
   <!-- about me part -->
 </template>
 
