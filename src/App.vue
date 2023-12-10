@@ -1,7 +1,8 @@
 <script setup>
 import logoDark from "@/assets/logo_dark.png";
 import 'flowbite';
-import intro from "./components/Intro.vue";
+import projects from "./components/projects.vue";
+import about from "./components/aboutme.vue"
 </script>
 
 <template>
@@ -42,8 +43,9 @@ import intro from "./components/Intro.vue";
     </div>
   </nav>
 
-  <intro />
-
+  <about />
+  <projects />
+  
 </template>
 
 <script>
