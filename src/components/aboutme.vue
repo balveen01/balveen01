@@ -32,13 +32,16 @@
         </div>
     </div>
 
-    <div class="grid grid-cols-2"></div>
+        <!-- Divider -->
+    <div class="container flex items-center justify-center my-16">
+        <hr class="border-4 border-light_color w-96 " />
+    </div>
 </div>
 </template>
 
 <script>
 export default {
-    name: '',
+    name: 'aboutme',
     data() {
         return {
             typed: ''
