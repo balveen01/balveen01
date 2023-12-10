@@ -12,12 +12,14 @@
             <div class="col-span-2 lg:col-span-1 sm:col-span-2 mb-4">
                 <h1 class="text-5xl font-bold">My Projects</h1>
             </div>
-            <div class="col-span-2 justify-items-start lg:col-span-1 sm:col-span-2">
-                <p class="text-1xl">Projects that I have done in group projects in university and polytechnic and projects that I have done on my own</p>
-            </div>
         </div>
 
         <project_card :project_info="project_info"/>
+
+        <!-- Divider -->
+    <div class="container flex items-center justify-center my-16">
+        <hr class="border-4 border-light_color w-96 " />
+    </div>
     </div>
 
 </template>

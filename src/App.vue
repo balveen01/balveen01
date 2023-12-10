@@ -3,6 +3,8 @@ import logoDark from "@/assets/logo_dark.png";
 import 'flowbite';
 import projects from "./components/projects.vue";
 import about from "./components/aboutme.vue"
+import tech from "./components/tech.vue";
+import bottomnav from "./components/footer.vue";
 </script>
 
 <template>
@@ -45,7 +47,9 @@ import about from "./components/aboutme.vue"
 
   <about />
   <projects />
-  
+  <tech />
+  <bottomnav />
+
 </template>
 
 <script>
