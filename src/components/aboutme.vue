@@ -3,7 +3,7 @@
 
 <template>
     <!-- introduction part -->
-    <div class="container ml-5 mr-5 sm:mx-auto">
+    <div class="container ml-5 mr-5 sm:mx-auto" id="introandaboutme">
     <div class="grid grid-cols-2 place-items-center justify-items-center mt-5">
         <div class="col-span-2 lg:col-span-1 sm:col-span-2">
             <img class="rounded-full w-64 h-64 sm:justify-items-center" src="../assets/my pic.jpg" alt="image description">

@@ -26,9 +26,6 @@ export default {
     name: 'projects',
     props: {
         project_info: [],
-    },
-    created() {
-    console.log(this.project_info[0].title);
-  },
+    }
 }
 </script>
