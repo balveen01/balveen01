@@ -11,7 +11,7 @@ import timeline from "./components/timeline.vue";
 <template>
   <!-- Top Navigation Bar -->
   <nav class="sticky top-0 bg-dark_color shadow-md z-20 w-full">
-    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+    <div class="-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
           <img :src="logoDark" class="h-12" alt="Logo" />
       </a>
