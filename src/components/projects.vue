@@ -8,6 +8,10 @@
     
     <!-- Projects -->
     <div class="container ml-5 mr-5 sm:mx-auto">
+        <div class="container flex items-center justify-center my-16">
+            <hr class="border-4 border-light_color w-96 " />
+        </div>
+
         <div class="grid grid-cols-2 place-items-center justify-items-center mt-10">
             <div class="col-span-2 lg:col-span-1 sm:col-span-2 mb-4">
                 <h1 class="text-5xl font-bold">My Projects</h1>

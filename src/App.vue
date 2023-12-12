@@ -5,6 +5,7 @@ import projects from "./components/projects.vue";
 import aboutme from "./components/aboutme.vue"
 import tech from "./components/tech.vue";
 import bottomnav from "./components/footer.vue";
+import timeline from "./components/timeline.vue";
 </script>
 
 <template>
@@ -26,7 +27,7 @@ import bottomnav from "./components/footer.vue";
             <a href="#introandaboutme" class="block py-2 px-3 active:font-bold" aria-current="page">About Me</a>
           </li>
           <li>
-            <a href="#" class="block py-2 px-3 active:font-bold" aria-current="page">Timeline</a>
+            <a href="#timeline" class="block py-2 px-3 active:font-bold" aria-current="page">Timeline</a>
           </li>
           <li>
             <a href="#myprojects" class="block py-2 px-3 active:font-bold" aria-current="page">Projects</a>
@@ -46,6 +47,7 @@ import bottomnav from "./components/footer.vue";
   </nav>
 
   <aboutme id="introandaboutme"/>
+  <timeline id="timeline"/>
   <projects id="myprojects"/>
   <tech id="technologies"/>
   <bottomnav />
