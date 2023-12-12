@@ -38,7 +38,7 @@ export default {
                     img: "../assets/",
                     title: "Web Application Development (IT1507)",
                     desc: "A simple travel website",
-                    link: "https://github.com/balveen01/Polytechnic-Projects/tree/main/IT1507-Web%20Application%20Project",
+                    link: "https://github.com/balveen01/WAD-IT1507",
                     skills: "HTML, CSS, JavaScript",
                     year: "Apr 2018 - Aug 2018"
                 },
@@ -46,7 +46,7 @@ export default {
                     img: "../assets/",
                     title: "Object Oriented Programming (ITP182)",
                     desc: "Singapore Transportation Systems is website that helps user to plan their trip early with the knowledge of the Mass Rapid Transportation (MRT) and bus timing. They are also able to use our features for taxi and bicycles.",
-                    link: "https://github.com/balveen01/Polytechnic-Projects/tree/main/ITP182%20Object%20Oriented%20Programming%20Project",
+                    link: "https://github.com/balveen01/OOP-ITP182",
                     skills: "Python, Flask HTML, CSS",
                     year: "Oct 2018 - Feb 2019"
                 },
@@ -54,7 +54,7 @@ export default {
                     img: "../assets/",
                     title: "Enterprise Business (ITP281)",
                     desc: "Partiety is a website selling party items to customer and give recommendation to customer on products knowing their theme of party and the budget they have.",
-                    link: "https://github.com/balveen01/Polytechnic-Projects/tree/main/ITP281%20Enterprise%20Business%20Project",
+                    link: "https://github.com/balveen01/Ebiz-ITP281",
                     skills: "C#, ASP.NET HTML, CSS",
                     year: "Apr 2019 - Aug 2019"
                 },
@@ -62,7 +62,7 @@ export default {
                     img: "../assets/",
                     title: "Enterprise Application Development (ITP282)",
                     desc: "The idea is the create a business to business web application. Triangle is the company and Doosan is the supplier. Triangle: Triangle sells computer and related appliances to their customers. Once their stocks run low, they order from Doosan, their supplier. Doosan: Doosan sells computer to other companies, one of them being Triangle.",
-                    link: "https://github.com/balveen01/Polytechnic-Projects/tree/main/ITP282-Enterprise-Application-Project",
+                    link: "https://github.com/balveen01/EADP-ITP282",
                     skills: "C#, ASP.NET, using web services, SQL",
                     year: "Oct 2019 - Feb 2020"
                 },
@@ -78,7 +78,7 @@ export default {
                     img: "../assets/",
                     title: "Personal Portfolio (Version 1)",
                     desc: "My personal portfolio website, the first version",
-                    link: "https://github.com/balveen01/balveen01", //change the link!
+                    link: "https://github.com/balveen01/balveen_v1",
                     skills: "HTML, CSS, BootStrap",
                     year: "Aug 2022 - Nov 2022"
                 },
@@ -102,8 +102,8 @@ export default {
                     img: "../assets/",
                     title: "Personal Portfolio (Version 2)",
                     desc: "My personal portfolio website, the current version",
-                    link: "https://github.com/balveen01/balveen01", //change the link
-                    skills: "HTML, CSS, BootStrap",
+                    link: "https://github.com/balveen01/balveen01",
+                    skills: "HTML, CSS, Vue, Javascript, TailwindCSS, Flowbite",
                     year: "Dec 2023 - Dec 2023"
                 }
             ]
